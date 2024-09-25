@@ -12,7 +12,7 @@
 <h3 align="left">My Stack</h3>
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,php,mysql,postgresql,debian,ubuntu,vim,raspberrypi" /> 
+ <img src="https://skillicons.dev/icons?i=bash,php,mysql,postgresql,debian,ubuntu,vim" /> 
 </div>
 
 
