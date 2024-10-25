@@ -12,10 +12,38 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color:FFF)](https://www.linkedin.com/in/pedro-felipe-816563253/)
 
 ## Minhas Tecnologias
+
+### Linguagem
+
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,php,mysql,postgresql,debian,ubuntu,vim,python,java,javascript,html,css" /> 
+ <img src="https://skillicons.dev/icons?i=rust,bash,python" /> 
 </div>
 
+### Desenvolvimento web
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=php,javascript,html,css," /> 
+</div>
+
+### DevOps
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=debian,ubuntu,vim" /> 
+</div>
+
+### Banco de dados
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=mysql,postgresql,mariadb" /> 
+</div>
+
+### IDE
+
+<div align="left">
+ <img src="https://skillicons.dev/icons?i=vscode" /> 
+</div>
+
+---
 
 <div align="center"><br>
 <h3>GitHub Stats</h3>
