@@ -1,4 +1,4 @@
-<img align="right" alt="" height="300px" src="./cloud.png">
+<img align="right" alt="" height="300px" src="./images/cloud.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0A66C2&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+me+chamo+Pedro+Felipe!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
@@ -16,13 +16,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ### Linguagem
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=rust,bash,python" /> 
+ <img src="https://skillicons.dev/icons?i=bash,python" /> 
 </div>
 
 ### Desenvolvimento web
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=php,javascript,html,css," /> 
+ <img src="https://skillicons.dev/icons?i=php,html,css," /> 
 </div>
 
 ### DevOps
