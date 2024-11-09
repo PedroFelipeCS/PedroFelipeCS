@@ -16,13 +16,13 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ### Linguagem
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,python" /> 
+ <img src="https://skillicons.dev/icons?i=bash,python,rust,go" /> 
 </div>
 
 ### Desenvolvimento web
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=php,html,css," /> 
+ <img src="https://skillicons.dev/icons?i=php,js,html,css," /> 
 </div>
 
 ### DevOps
