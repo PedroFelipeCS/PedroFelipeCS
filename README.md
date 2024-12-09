@@ -10,19 +10,21 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ## Conecte-se Comigo!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedrossdaf2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color:FFF)](https://www.linkedin.com/in/pedro-felipe-816563253/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=beacons&logoColor=0A66C2&color:FFF)](https://beacons.ai/pedrofelipecs)
+
 
 ## Minhas Tecnologias
 
 ### Linguagem
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=bash,python,rust,go" /> 
+ <img src="https://skillicons.dev/icons?i=bash,python,rust" /> 
 </div>
 
 ### Desenvolvimento web
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=php,js,html,css" /> 
+ <img src="https://skillicons.dev/icons?i=js,html,css" /> 
 </div>
 
 ### DevOps
