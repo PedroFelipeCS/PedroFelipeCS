@@ -30,7 +30,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ### DevOps
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=debian,ubuntu,vim" /> 
+ <img src="https://skillicons.dev/icons?i=debian,ubuntu" /> 
 </div>
 
 ### Banco de dados
