@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 
 ## Minhas Tecnologias
 
-### Linguagem
+### DevOps
 
 <div align="left">
  <img src="https://skillicons.dev/icons?i=bash,python,rust" /> 
@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
  <img src="https://skillicons.dev/icons?i=js,html,css" /> 
 </div>
 
-### DevOps
+### SysAdmin
 
 <div align="left">
  <img src="https://skillicons.dev/icons?i=debian,ubuntu" /> 
