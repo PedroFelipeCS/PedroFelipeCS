@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência 
 ### Desenvolvimento web
 
 <div align="left">
- <img src="https://skillicons.dev/icons?i=js,html,css" /> 
+ <img src="https://skillicons.dev/icons?i=js,html,css,next" /> 
 </div>
 
 ### SysAdmin
